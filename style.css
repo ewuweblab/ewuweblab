@@ -1,8 +1,12 @@
 body {
-  background: rgb(204, 201, 3);
+  background: rgb(158, 158, 158);
 }
 
 h1,
 p {
   color: #eee;
+}
+
+img {
+  width: 50%;
 }
