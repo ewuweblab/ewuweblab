@@ -1,4 +1,16 @@
-### Hi there 👋
+# My Name
+
+## Major
+Visual Communication Design at Eastern Washington University
+
+## Skills
+* Web Design
+* Photography
+* Illustration
+
+## Superpower
+I can sleep anywhere, at anytime. 
+
 
 <!--
 **ewuweblab/ewuweblab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
