@@ -1,4 +1,6 @@
-# My Name
+# P. Colin Manikoth
+
+<blockquote>Computer are dumb. People are smart.</blockquote>
 
 ## Major
 Visual Communication Design at Eastern Washington University
