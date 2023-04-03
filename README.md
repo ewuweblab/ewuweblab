@@ -1,6 +1,6 @@
 # P. Colin Manikoth
 
-<blockquote>Computer are dumb. People are smart.</blockquote>
+> Computer are dumb. People are smart.
 
 ## Major
 Visual Communication Design at Eastern Washington University
