@@ -1,5 +1,7 @@
 # P. Colin Manikoth
 
+![Coffee](https://media.giphy.com/media/hPTZgtzfRIB5Nfb5rL/giphy-downsized-large.gif)
+
 > Computer are dumb. People are smart.
 
 ## Major
@@ -15,8 +17,8 @@ I can sleep anywhere, at anytime.
 
 ## My Links
 * [GitHub](https://github.com/ewuweblab)
-* <a href="https://codepen.io/manikoth">CodePen</a>
-* LinkedIn
+* [CodePen](https://codepen.io/manikoth)
+* [LinkedIn](https://linked.com/pmanikoth)
 
 
 
