@@ -13,6 +13,12 @@ Visual Communication Design at Eastern Washington University
 ## Superpower
 I can sleep anywhere, at anytime. 
 
+## My Links
+* [GitHub](https://github.com/ewuweblab)
+* <a href="https://codepen.io/manikoth">CodePen</a>
+* LinkedIn
+
+
 
 <!--
 **ewuweblab/ewuweblab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
