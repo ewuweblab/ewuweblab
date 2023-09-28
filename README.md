@@ -1,4 +1,4 @@
-![gif](https://media.giphy.com/media/TgHosMP8OADYO6onsC/giphy.gif)
+![gif](giphy.webp)
 
 # P. Colin Manikoth
 
