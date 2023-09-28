@@ -26,3 +26,5 @@ I can sleep anywhere, at anytime.
 * [CodePen](https://codepen.io/manikoth)
 * [LinkedIn](https://linked.com/pmanikoth)
 
+## Dept of Design
+[EWU Design](https://www.ewu.edu/cstem/design/)
