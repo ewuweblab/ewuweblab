@@ -30,6 +30,6 @@ Pushing pixels around with computers. Pushing myself with coffee.
 <a href="http://www.github.com/ewuweblab"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ewuweblab&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ### Anything Else? 
-> Why smart people do bad things?
+> Use technology for the good of humanity. 
 
 ![gif](giphy.webp)
