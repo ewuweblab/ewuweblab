@@ -1,1 +1,1 @@
-> Computers are dumb. Humans are smart.
+> Computers are *dumb*. Humans are **smart**.
