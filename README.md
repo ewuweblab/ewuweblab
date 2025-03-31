@@ -1,3 +1,3 @@
 # P. Colin Manikoth
 
-> Computers are *dumb*. Humans are **smart**.
+This is your bio.
