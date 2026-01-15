@@ -1,16 +1,15 @@
-## Hi there 👋
+# P. Colin Manikoth
 
-<!--
-**ewuweblab/ewuweblab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Assistant Professor at Eastern Washington University. 
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Web Development
+* Preparing Future Pros
+* Dishwashing
+
+## Socials
+
+ * [LinkedIn](https://www.linkedin.com/in/p-colin-manikoth-53a415217/)
+ 
+  
