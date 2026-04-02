@@ -30,8 +30,8 @@ Here's what makes this project great:
 * Itme C
 
 ## Tasks
-- [] Set up project structure (completed)
+- [ ] Set up project structure (completed)
 - [x] Write initial documentation (completed)
-- [] Add unit tests
+- [ ] Add unit tests
 - [x] Deploy to production
-- [] Create tutorial videos
+- [ ] Create tutorial videos
