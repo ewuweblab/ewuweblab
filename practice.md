@@ -45,4 +45,5 @@ Here's what makes this project great:
 
 ## Emoji
 
-:heart:
+* :heart:
+* :heart_on_fire:
