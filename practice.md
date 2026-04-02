@@ -47,3 +47,9 @@ Here's what makes this project great:
 
 * :heart:
 * :heart_on_fire:
+
+## Table
+| Feature | Basic Plan | Pro Plan | Enterprise |
+|---------|-----------|----------|------------|
+| Users | 1-5 | 6-50 | Unlimited |
+| Storage | 10 GB | 100 GB | Custom |
